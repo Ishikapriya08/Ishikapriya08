@@ -14,7 +14,10 @@ Developed a scalable ETL pipeline on AWS for efficient data ingestion and proces
 - **Real-Time Stock Market Analysis with Kafka**  📈🔄\
 Built a real-time data pipeline for analyzing stock market trends using Apache Kafka and AWS services, facilitating efficient data streaming and processing.  
 - **Automated ETL for Weather Data with Airflow** 🌦️🔄 \
-Created an automated ETL workflow with Apache Airflow to extract, transform, and load real-time weather data from the OpenWeatherMap API.  
+Created an automated ETL workflow with Apache Airflow to extract, transform, and load real-time weather data from the OpenWeatherMap API.
+-- **Streamlit-Based Q&A Chatbot**  💬📄🤖\
+Built a Streamlit-based chatbot that enables users to upload documents and receive personalized answers to their questions. Integrated advanced methodologies such as chunking, text embedding, and a vector database using LangChain to provide precise and relevant responses.
+
 
 
 
