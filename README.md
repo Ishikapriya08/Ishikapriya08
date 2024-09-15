@@ -5,7 +5,7 @@
 
 🔭 I’m a Senior Data Engineer at Accenture with over 3 years of experience. 💼\
 🤘 My expertise includes Python 🐍, PySpark 🔥, SQL 🗃️, and cloud platforms such as AWS ☁️, GCP 🌐, and Azure Databricks 📊. \
-🧑🏻‍🏫 I’m seeking a challenging role where I can drive innovation and tackle complex business problems. 🚀\
+🧑🏻‍🏫 I’m seeking a challenging role where I can drive innovation and tackle complex business problems. 🚀
 
 ### Personal Projects
 
